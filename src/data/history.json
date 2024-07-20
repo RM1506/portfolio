@@ -1,0 +1,24 @@
+[
+  {
+    "role": "DSA",
+    "organisation": "Data Structures & Algorithms",
+    
+    "experiences": ["Solved Over 700+ Problems of Data Structures and Algorithms in different coding platforms like GFG,Leetcode and Coding Ninjas"],
+    "imageSrc": "history/dsa.png"
+  },
+  {
+    "role": "CodeRush-2023",
+    "organisation": "AlgoUniversity",
+    "experiences": [" Secured rank 18 among 200+ participants in CodeRush-2023 Coding Contest held by Algouniversity "],
+    "imageSrc": "history/contest.jpg"
+  },
+  {
+    "role": "Captain",
+    "organisation": "School Hockey Team",
+    "experiences": [
+      "Successfully led the team to win the Bronze medal at CBSE West Zone Hockey Tournament.",
+      "Demonstrated leadership, teamwork, and strategic planning skills."
+    ],
+    "imageSrc": "history/hockey.jpg"
+  }
+]
