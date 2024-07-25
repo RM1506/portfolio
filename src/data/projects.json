@@ -4,16 +4,16 @@
     "imageSrc": "projects/project2.png",
     "description": "Developed a forum for farmers and agricultural experts to share insights and best practices, dedicated to enhancing agricultural knowledge.",
     "skills": ["React", "Express", "Node","MongoDb","Cloudinary"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://blog-43pq.onrender.com/",
+    "source": "https://github.com/RM1506/AgriForum"
   },
   {
     "title": "PortFolio",
     "imageSrc": "projects/project2.png",
     "description": "Developed a dynamic and responsive portfolio website using React JS and CSS.Integrated form validation to facilitate secure and  efficient message sending functionality.",
     "skills": ["React", "CSS"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://portfolio-rishabh-s-projects-c62e0711.vercel.app/",
+    "source": "https://github.com/RM1506/portfolio"
   }
   
   
