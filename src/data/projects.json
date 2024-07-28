@@ -1,7 +1,7 @@
 [
   {
     "title": "AgriForum",
-    "imageSrc": "projects/project2.png",
+    "imageSrc": "projects/project1.png",
     "description": "Developed a forum for farmers and agricultural experts to share insights and best practices, dedicated to enhancing agricultural knowledge.",
     "skills": ["React", "Express", "Node","MongoDb","Cloudinary"],
     "demo": "https://blog-43pq.onrender.com/",
