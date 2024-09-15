@@ -11,7 +11,7 @@ export const Hero = () => {
         <p className={styles.description}>
         I'm a student of National Institute of Technology Raipur, final year. Majoring in Information Technology.
         </p>
-        <a href="https://drive.google.com/file/d/1DrWrFWCbdnry8IWb1vfj4l_uFtvtNMm6/view?usp=sharing" target="_blank" className={styles.contactBtn}>
+        <a href="https://drive.google.com/file/d/1mDOodmD915_Pj-dyAhwk6-yzU9luRJj1/view?usp=sharing" target="_blank" className={styles.contactBtn}>
           Download My CV
         </a>
       </div>
